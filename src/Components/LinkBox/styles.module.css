@@ -65,3 +65,21 @@
    text-decoration: none; 
  
 }
+
+.box1:hover {
+    transition: 0.7s;
+    animation: ease-in-out;
+    transform: scale(1.2);
+  }
+
+  .box2:hover {
+    transition: 0.7s;
+    animation: ease-in-out;
+    transform: scale(1.2);
+  }
+
+  .box3:hover {
+    transition: 0.7s;
+    animation: ease-in-out;
+    transform: scale(1.2);
+  }

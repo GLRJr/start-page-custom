@@ -33,5 +33,11 @@ img {
   background-color: #787878;
   border-radius: 15px;
   box-shadow: 10px 10px 5px 5px #00000022;
+  
+}
 
+img:hover {
+  transition: 0.7s;
+  animation: ease-in-out;
+  transform: scale(1.1);
 }

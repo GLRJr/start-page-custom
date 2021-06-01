@@ -9,7 +9,7 @@ const Search = () => {
 
     const search = "https://duckduckgo.com/?t=ffab&q=";
     const url = search + input + "&ia=web";
-    window.open(url, "_self");
+    window.open(url, "_blank");
   };
 
   return (
